@@ -222,14 +222,10 @@ This project serves as a comprehensive case study for:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lloyd-delacruz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lloyd-delacruz)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
-- **World Health Organization** for providing comprehensive global health data
-- **Eastern University** MSDA program for academic guidance
+- **Kaggle.com** for providing comprehensive global health data
+- **BrianStation Vancouver** Data Analytics course for academic guidance
 - **Open source community** for PostgreSQL and analytical tools
 - **AI Assistants** (Claude AI, ChatGPT, Perplexity AI) for development support
 
